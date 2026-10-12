@@ -1,0 +1,6 @@
+{
+  "name": "Bluey",
+  "description": "Interactive blueberry companion with expressive animated googly eyes, Windows desktop cursor tracking, audio/voice interaction, and session meeting notes",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
